@@ -1,2 +1,2 @@
-# TemplateTutorial-for-c-
+# TemplateTutorial-for-cpp
 c++ 模板
